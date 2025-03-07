@@ -1,4 +1,5 @@
-baseURL: https://tobias-rothmann.github.io/
+baseURL: https://example.org/
 languageCode: en-us
 title: Tobias Rothmann
-theme: ["PaperMod"]
+
+theme: PaperMod
