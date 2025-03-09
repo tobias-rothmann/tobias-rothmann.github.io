@@ -13,16 +13,26 @@ params:
     subtitle: "
     Cryptography, Complexity, Formal Methods 
 
+   <br><br>
+
+    I am a undergraduate studying CS at TU Munich. I'm broadly interested in programmable cryptography - by day I enjoy my complexity classes, by night I apply my formal methods knowledge to cryptography. 
+
     <br><br>
-    
+    I am curerently formalizing Polynomial Commitment Schemes in Isabelle/HOL.   
     "
     imageUrl: "image.jpeg" # optional
     imageTitle: "<title of image as alt>" # optional
     imageWidth: 180 # custom size
     imageHeight: 180 # custom size
     buttons:
+      - name: Papers & Talks
+        url: papers/
+      - name: Projects
+        url: projects/
+      - name: About 
+        url: about/
       - name: Archive
-        url: "/archive"
+        url: archive/
 
   socialIcons: # optional
     - name: Github
@@ -33,3 +43,15 @@ params:
       url : https://bsky.app/profile/tobiasrth.bsky.social
     - name: Email
       url: mailto:tobias.rothmann@tum.de
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
