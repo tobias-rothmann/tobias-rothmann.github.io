@@ -1,5 +1,35 @@
-baseURL: https://example.org/
+baseURL: https://github.com/tobias-rothmann/
 languageCode: en-us
 title: Tobias Rothmann
 
 theme: PaperMod
+params:
+  comments: false
+  math: true
+  hideFooter: true
+  profileMode:
+    enabled: true
+    title: "Tobias Rothmann" # optional default will be site title
+    subtitle: "
+    Cryptography, Complexity, Formal Methods 
+
+    <br><br>
+    
+    "
+    imageUrl: "image.jpeg" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 180 # custom size
+    imageHeight: 180 # custom size
+    buttons:
+      - name: Archive
+        url: "/archive"
+
+  socialIcons: # optional
+    - name: Github
+      url: https://github.com/tobias-rothmann
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/tobias-rothmann/
+    - name: Bluesky
+      url : https://bsky.app/profile/tobiasrth.bsky.social
+    - name: Email
+      url: mailto:tobias.rothmann@tum.de
