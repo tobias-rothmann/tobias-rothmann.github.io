@@ -7,7 +7,6 @@ params:
   comments: false
   math: true
   hideFooter: true
-  googleAnalyticsID: "GTM-K65QDXF3"
   profileMode:
     enabled: true
     title: "Tobias Rothmann" # optional default will be site title
