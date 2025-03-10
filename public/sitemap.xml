@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/miscprojects/cr_kiosk/</loc>
-    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/miscprojects/f_pcs/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -19,6 +16,9 @@
   </url><url>
     <loc>http://localhost:1313/projects/miscprojects/f_kzg/</loc>
     <lastmod>2024-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/miscprojects/cr_kiosk/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/hackathons/suiseal/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>

@@ -9,13 +9,6 @@
     <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Challenge Reponse Kiosk extension in Sui Move</title>
-      <link>http://localhost:1313/projects/miscprojects/cr_kiosk/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/miscprojects/cr_kiosk/</guid>
-      <description>extending Sui&amp;#39;s Kiosk for a Challenge-Response Protocol</description>
-    </item>
-    <item>
       <title>Formalizing Polynomial Commitment Schemes in Isabelle/HOL</title>
       <link>http://localhost:1313/projects/miscprojects/f_pcs/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
@@ -40,6 +33,13 @@ To our knowledge, this is the first formalization of polynomial commitment schem
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/miscprojects/f_kzg/</guid>
       <description>This is my bachelor thesis.</description>
+    </item>
+    <item>
+      <title>Challenge Reponse Kiosk extension in Sui Move</title>
+      <link>http://localhost:1313/projects/miscprojects/cr_kiosk/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/miscprojects/cr_kiosk/</guid>
+      <description>extending Sui&amp;#39;s Kiosk for a Challenge-Response Protocol</description>
     </item>
     <item>
       <title>SuiSeal</title>
