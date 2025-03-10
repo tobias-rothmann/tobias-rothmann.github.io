@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Tobias Rothmann</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Tobias Rothmann</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formalizing Polynomial Commitment Schemes in Isabelle/HOL</title>
+      <link>http://localhost:1313/projects/miscprojects/f_pcs/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/miscprojects/f_pcs/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We formalize the notion of polynomial commitment schemes (PCSs) in the interactive theorem prover Isabelle/HOL and formally verify two KZG versions&amp;rsquo; security proofs.
+We formalize an abstract definition of polynomial commitment schemes and abstract games for correctness, binding, hiding, and knowledge soundness/extractability, unifying the notion of security for PCSs.
+We formally verify the security proofs for two PCSs; the standard DL-version KZG and a batched version of the KZG.
+Our proofs follow the sequence-of-games approach proposed by Shoup, with machine-checked transitions, as is the standard in the CryptHOL framework for formal verification of cryptography in Isabelle.
+To our knowledge, this is the first formalization of polynomial commitment schemes and the first formal verification of any concrete polynomial commitment scheme&amp;rsquo;s security proofs. This is a work in progress; while the bulk of the work is already done (formalization of PCSs and according games, formal verification of the KZG and the batched KZG), there are still some remaining tasks and ongoing revisions we would like to implement; most notably we want to formalize the AGM properly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PriMACI</title>
+      <link>http://localhost:1313/projects/hackathons/primaci/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hackathons/primaci/</guid>
+      <description>The coordinator of MACI in a Multi-Party Computation (MPC) setting</description>
+    </item>
+    <item>
+      <title>Formalizing the KZG Polynomial Commitment Scheme in Isabelle</title>
+      <link>http://localhost:1313/projects/miscprojects/f_kzg/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/miscprojects/f_kzg/</guid>
+      <description>This is my bachelor thesis.</description>
+    </item>
+    <item>
+      <title>Challenge Reponse Kiosk extension in Sui Move</title>
+      <link>http://localhost:1313/projects/miscprojects/cr_kiosk/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/miscprojects/cr_kiosk/</guid>
+      <description>extending Sui&amp;#39;s Kiosk for a Challenge-Response Protocol</description>
+    </item>
+    <item>
+      <title>SuiSeal</title>
+      <link>http://localhost:1313/projects/hackathons/suiseal/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hackathons/suiseal/</guid>
+      <description>SuiSeal: Your Solution to Combat Counterfeits</description>
+    </item>
+    <item>
+      <title>PrivatePOAP</title>
+      <link>http://localhost:1313/projects/hackathons/privatepoap/</link>
+      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hackathons/privatepoap/</guid>
+      <description>SuiSeal: Your Solution to Combat Counterfeits</description>
+    </item>
+  </channel>
+</rss>

@@ -17,3 +17,9 @@ Tobias Rothmann, Katharina Heidler (b. Kreuzer).\
 
 "KZG and Formal Verification".
 0xCastle. [slides](0xCastle.pdf)
+
+## Semniar Papers
+
+"SMT-based Formal Verification of Smart Contracts: the State of the Art".\
+Tobias Rothmann.\
+**Formal Methods in IT-Security** Seminar at TUM. Available at: [pdf](SMT_based_FV_of_Smart_Contracts.pdf)
