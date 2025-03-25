@@ -15,8 +15,11 @@ Tobias Rothmann, Katharina Heidler (b. Kreuzer).\
 
 ## Talks 
 
-"KZG and Formal Verification".
-0xCastle. [slides](0xCastle.pdf)
+"On the Formal Verification of Polynomial Commitment Schemes: the KZG and beyond".\
+**ZKProof 7**. [slides](https://docs.google.com/presentation/d/1G8h41Wiq7lVqYnN-ORlk2X_J_I6CYZcMEuFipXdvjNs/edit#slide=id.g33ae50ced7b_0_75)
+
+"KZG and Formal Verification".\
+**0xCastle**. [slides](0xCastle.pdf)
 
 ## Semniar Papers
 
