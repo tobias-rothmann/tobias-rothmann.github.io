@@ -15,10 +15,10 @@ params:
 
    <br><br>
 
-    I am a CS Master's student at TU Munich. I'm broadly interested in programmable cryptography and formal methods (and their intersection). 
+    I am a master’s student in CS at TUM, with broad interests in programmable cryptography and formal methods, particularly their intersection.
 
     <br><br>
-    I am curerently formalizing Polynomial Commitment Schemes in <s>Isabelle/HOL</s>Lean (see \href{https://github.com/Verified-zkEVM/ArkLib}{ArkLib}).   
+    I am currently formalizing Polynomial Commitment Schemes in <s>Isabelle/HOL</s> Lean/<a href='https://github.com/Verified-zkEVM/ArkLib'>ArkLib</a> at EPFL in the COMPSEC lab.   
     "
     imageUrl: "image.jpeg" # optional
     imageTitle: "<title of image as alt>" # optional
