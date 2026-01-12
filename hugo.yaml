@@ -15,7 +15,7 @@ params:
 
    <br><br>
 
-    I am a master’s student in CS at TUM, with broad interests in programmable cryptography and formal methods, particularly their intersection. My work is supervised by <a href='https://www21.in.tum.de/~nipkow/'>Prof. Tobias Nipkow</a> and Dr. Katharina Heidler. Previously, I was a cryptography working student at <a href='https://www.arcium.com'>Arcium</a>.
+    I am a master’s student in CS at TUM, with broad interests in programmable cryptography and formal methods, particularly their intersection. My work is currently supervised by <a href='https://www21.in.tum.de/~nipkow/'>Prof. Tobias Nipkow</a>. Previously, I was a working student in the cryptography team at <a href='https://www.arcium.com'>Arcium</a>.
 
     <br><br>
     I am currently formalizing Polynomial Commitment Schemes in <s>Isabelle/HOL</s> Lean/<a href='https://github.com/Verified-zkEVM/ArkLib'>ArkLib</a> at EPFL in the COMPSEC lab.   
