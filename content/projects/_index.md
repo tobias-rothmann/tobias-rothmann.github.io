@@ -15,10 +15,10 @@ title: "Projects"
 
 ## Hackathons
 
-[**SuiSeal**](Hackathons/SuiSeal/). BSA x Sui Hackathon at EPFL, Lausanne. **Overall Winner** (1. Place)\
+[**SuiSeal**](Hackathons/SuiSeal/). BSA x Sui Hackathon at EPFL, Lausanne. **Overall Winner** (1st Place)\
 [github](https://github.com/TUM-Blockchain-Club/SuiSeal)
 
-[**PrivatePOAP**](Hackathons/PrivatePOAP/). ETHBerlin 3, Berlin. Privacy/Manta Network Track Winner (3rd. Place)\
+[**PrivatePOAP**](Hackathons/PrivatePOAP/). ETHBerlin 3, Berlin. Privacy/Manta Network Track Winner (3rd Place)\
 [github](https://github.com/TUM-Blockchain-Club/SuiSeal)
 
 [**PriMACI**](Hackathons/PriMACI/). ETHBerlin 4, Berlin. \

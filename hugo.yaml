@@ -36,7 +36,7 @@ params:
     - name: LinkedIn
       url: https://www.linkedin.com/in/tobias-rothmann/
     - name: Bluesky
-      url : https://bsky.app/profile/tobiasrth.bsky.social
+      url: https://bsky.app/profile/tobiasrth.bsky.social
     - name: Email
       url: mailto:tobias.rothmann@tum.de
 
