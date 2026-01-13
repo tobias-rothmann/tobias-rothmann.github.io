@@ -17,7 +17,7 @@ Tobias Rothmann, Katharina Heidler (b. Kreuzer).\
 "Formally Verifying the KZG Polynomial Commitment Scheme".\
 **0xCastle**. [slides](0xCastle.pdf)
 
-## Semniar Papers
+## Seminar Papers
 
 "SMT-based Formal Verification of Smart Contracts: the State of the Art".\
 Tobias Rothmann.\
