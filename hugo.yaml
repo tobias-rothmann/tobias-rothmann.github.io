@@ -29,10 +29,6 @@ params:
         url: papers/
       - name: Projects
         url: projects/
-      - name: Blog
-        url: blog/
-      - name: About 
-        url: about/
 
   socialIcons: # optional
     - name: Github

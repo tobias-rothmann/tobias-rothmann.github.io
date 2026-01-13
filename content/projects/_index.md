@@ -7,7 +7,7 @@ title: "Projects"
 [**Formalizing Polynomial Commitment Schemes in Isabelle**](MiscProjects/F_PCS/).\
 [github](https://github.com/tobias-rothmann/Polynomial-Commitment-Schemes/blob/main/README.md)
 
-[**Formalizing the KZG Polynomial Commitment Scheme in Isabelle**](MiscProjects/F_KZG/). Bachelor Thesis. TU Munich.\
+[**Bachelor Thesis: Formalizing the KZG Polynomial Commitment Scheme in Isabelle**](MiscProjects/F_KZG/). Bachelor Thesis. TU Munich.\
 [github](https://github.com/tobias-rothmann/KZG-Polynomial-Commitment-Scheme)
 
 [**Challenge Reponse Kiosk extension in Sui Move**](MiscProjects/CR_Kiosk/).\
