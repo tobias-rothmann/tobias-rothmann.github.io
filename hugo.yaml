@@ -15,10 +15,11 @@ params:
 
    <br><br>
 
-    I am a master’s student in CS at TUM, with broad interests in programmable cryptography and formal methods, particularly their intersection. My work is currently supervised by <a href='https://www21.in.tum.de/~nipkow/'>Prof. Tobias Nipkow</a>. Previously, I was a working student in the cryptography team at <a href='https://www.arcium.com'>Arcium</a>.
+    I am a master's student in computer science at TUM, interested in formal methods, cryptography, and especially their intersection. I am currently an intern at the Ethereum Foundation, where I work on end-to-end formal verification of post-quantum lattice-based polynomial commitments, from Rust implementations to security proofs.
 
     <br><br>
-    I am currently formalizing Polynomial Commitment Schemes in <s>Isabelle/HOL</s> Lean/<a href='https://github.com/Verified-zkEVM/ArkLib'>ArkLib</a> at EPFL in the COMPSEC lab.   
+    Previously, I formalized functional commitments in <a href='https://github.com/Verified-zkEVM/ArkLib'>Lean/ArkLib</a> at EPFL in the lab of Alessandro Chiesa.
+    Prior to that, I was fortunate to be supervised by <a href='https://www21.in.tum.de/~nipkow/'>Prof. Tobias Nipkow</a>, and to have worked on the cryptography team at <a href='https://www.arcium.com'>Arcium</a>. 
     "
     imageUrl: "image.jpeg" # optional
     imageTitle: "<title of image as alt>" # optional

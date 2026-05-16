@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tobias Rothmann</title>
-    <link>http://localhost:1313/</link>
+    <link>http://127.0.0.1:1314/</link>
     <description>Recent content on Tobias Rothmann</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1:1314/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formalizing Polynomial Commitment Schemes in Isabelle/HOL</title>
-      <link>http://localhost:1313/projects/miscprojects/f_pcs/</link>
+      <link>http://127.0.0.1:1314/projects/miscprojects/f_pcs/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/miscprojects/f_pcs/</guid>
+      <guid>http://127.0.0.1:1314/projects/miscprojects/f_pcs/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;We formalize the notion of polynomial commitment schemes (PCSs) in the interactive theorem prover Isabelle/HOL and formally verify two KZG versions&amp;rsquo; security proofs.
 We formalize an abstract definition of polynomial commitment schemes and abstract games for correctness, binding, hiding, and knowledge soundness/extractability, unifying the notion of security for PCSs.
@@ -22,37 +22,37 @@ To our knowledge, this is the first formalization of polynomial commitment schem
     </item>
     <item>
       <title>PriMACI</title>
-      <link>http://localhost:1313/projects/hackathons/primaci/</link>
+      <link>http://127.0.0.1:1314/projects/hackathons/primaci/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/hackathons/primaci/</guid>
+      <guid>http://127.0.0.1:1314/projects/hackathons/primaci/</guid>
       <description>The coordinator of MACI in a Multi-Party Computation (MPC) setting</description>
     </item>
     <item>
       <title>Formalizing the KZG Polynomial Commitment Scheme in Isabelle</title>
-      <link>http://localhost:1313/projects/miscprojects/f_kzg/</link>
+      <link>http://127.0.0.1:1314/projects/miscprojects/f_kzg/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/miscprojects/f_kzg/</guid>
+      <guid>http://127.0.0.1:1314/projects/miscprojects/f_kzg/</guid>
       <description>This is my bachelor thesis.</description>
     </item>
     <item>
       <title>Challenge Reponse Kiosk extension in Sui Move</title>
-      <link>http://localhost:1313/projects/miscprojects/cr_kiosk/</link>
+      <link>http://127.0.0.1:1314/projects/miscprojects/cr_kiosk/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/miscprojects/cr_kiosk/</guid>
+      <guid>http://127.0.0.1:1314/projects/miscprojects/cr_kiosk/</guid>
       <description>extending Sui&amp;#39;s Kiosk for a Challenge-Response Protocol</description>
     </item>
     <item>
       <title>SuiSeal</title>
-      <link>http://localhost:1313/projects/hackathons/suiseal/</link>
+      <link>http://127.0.0.1:1314/projects/hackathons/suiseal/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/hackathons/suiseal/</guid>
+      <guid>http://127.0.0.1:1314/projects/hackathons/suiseal/</guid>
       <description>SuiSeal: Your Solution to Combat Counterfeits</description>
     </item>
     <item>
       <title>PrivatePOAP</title>
-      <link>http://localhost:1313/projects/hackathons/privatepoap/</link>
+      <link>http://127.0.0.1:1314/projects/hackathons/privatepoap/</link>
       <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/hackathons/privatepoap/</guid>
+      <guid>http://127.0.0.1:1314/projects/hackathons/privatepoap/</guid>
       <description>SuiSeal: Your Solution to Combat Counterfeits</description>
     </item>
   </channel>
