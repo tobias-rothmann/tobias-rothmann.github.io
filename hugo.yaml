@@ -11,15 +11,14 @@ params:
     enabled: true
     title: "Tobias Rothmann" # optional default will be site title
     subtitle: "
-    Cryptography, Complexity, Formal Methods 
 
-   <br><br>
-
-    I am a master's student in computer science at TUM, interested in formal methods, cryptography, and especially their intersection. I am currently an intern at the Ethereum Foundation, where I work on end-to-end formal verification of post-quantum lattice-based polynomial commitments, from Rust implementations to security proofs.
+    I am a master's student in computer science at TUM, interested in formal methods, cryptography, and especially their intersection. 
 
     <br><br>
-    Previously, I formalized functional commitments in <a href='https://github.com/Verified-zkEVM/ArkLib'>Lean/ArkLib</a> at EPFL in the lab of Alessandro Chiesa.
-    Prior to that, I was fortunate to be supervised by <a href='https://www21.in.tum.de/~nipkow/'>Prof. Tobias Nipkow</a>, and to have worked on the cryptography team at <a href='https://www.arcium.com'>Arcium</a>. 
+    Currently, I am interning at the <a href='https://ethereum.org/foundation/'>Ethereum Foundation</a>, where I work on (almost) end-to-end formal verification of post-quantum lattice-based polynomial commitments (from Rust implementations to security proofs).
+
+    <br><br>
+    During my undergraduate studies, I was fortunate to be supervised by <a href='https://www21.in.tum.de/~nipkow/'>Prof. Tobias Nipkow</a> (co-author of the Isabelle proof assitant). I worked on <a href='https://github.com/Verified-zkEVM/ArkLib'>ArkLib in Lean</a> at EPFL in the lab of Alessandro Chiesa and I have also worked on the cryptography team at <a href='https://www.arcium.com'>Arcium</a>. 
     "
     imageUrl: "image.jpeg" # optional
     imageTitle: "<title of image as alt>" # optional
