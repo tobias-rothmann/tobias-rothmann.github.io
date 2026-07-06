@@ -9,8 +9,6 @@
     font-size: var(--home-size);
     line-height: var(--line-height);
     padding: var(--gap);
-    /* bias the vertically-centered profile upward */
-    padding-bottom: calc(var(--gap) + 14vh);
 }
 
 .profile .profile_inner {
