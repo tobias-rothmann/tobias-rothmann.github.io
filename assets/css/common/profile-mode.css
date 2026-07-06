@@ -48,3 +48,16 @@
 .button:hover {
     color: var(--purple);
 }
+
+/* keep emphasized phrases and linked names on one line */
+.profile .profile_inner b,
+.profile .profile_inner a {
+    white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+    .profile .profile_inner b,
+    .profile .profile_inner a {
+        white-space: normal;
+    }
+}

@@ -1,0 +1,19 @@
+{{- define "main" }}
+
+{{- if site.Params.profileMode.enabled }}
+{{- partial "index_profile.html" . }}
+
+{{- range slice "publications" "talks" }}
+{{- with site.GetPage . }}
+<section id="{{ .Title | urlize }}" class="home-section">
+    <h1>{{ .Title }}</h1>
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+</section>
+{{- end }}
+{{- end }}
+
+{{- end }}
+
+{{- end }}

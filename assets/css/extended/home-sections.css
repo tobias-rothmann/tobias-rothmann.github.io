@@ -1,0 +1,13 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.home-section {
+    padding: var(--gap) var(--gap) calc(var(--gap) * 2);
+    scroll-margin-top: var(--header-height);
+}
+
+.home-section h1 {
+    font-size: 2rem;
+    margin-bottom: var(--content-gap);
+}
