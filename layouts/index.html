@@ -3,7 +3,7 @@
 {{- if site.Params.profileMode.enabled }}
 {{- partial "index_profile.html" . }}
 
-{{- range slice "publications" "talks" }}
+{{- range slice "publications" "talks" "projects" }}
 {{- with site.GetPage . }}
 <section id="{{ .Title | urlize }}" class="home-section">
     <h1>{{ .Title }}</h1>

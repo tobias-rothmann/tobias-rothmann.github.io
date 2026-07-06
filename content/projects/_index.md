@@ -1,27 +1,19 @@
---- 
+---
 title: "Projects"
---- 
+---
 
-## Misc Projects
+{{< ghrepo "Verified-zkEVM/ArkLib" >}}
+Lean 4 library for computable succinct arguments. Did most of the work on commitments (functional and ordinary). Formalized computable lattcies (cyclotomic ring and other lattice primitives) and the notions of special soundness,  cooridnate-wise special soundness (CWSS) and the underlying state-tree data structure. Formalized the [Ajtai](https://dl.acm.org/doi/10.1145/237814.237838) commitment, the [KZG](https://iacr.org/archive/asiacrypt2010/6477178/6477178.pdf) and currently formalizing the [Hachi](https://eprint.iacr.org/2026/156.pdf) PCS.
+{{< /ghrepo >}}
 
-[**Formalizing Polynomial Commitment Schemes in Isabelle**](MiscProjects/F_PCS/).\
-[github](https://github.com/tobias-rothmann/Polynomial-Commitment-Schemes/blob/main/README.md)
+{{< ghrepo "tobias-rothmann/Polynomial-Commitment-Schemes" >}}
+First formalization of polynomial commitments, the [AGM](https://link.springer.com/chapter/10.1007/978-3-319-96881-0_2), and the [KZG](https://iacr.org/archive/asiacrypt2010/6477178/6477178.pdf). 
+See the related [ESORICS](https://sites.google.com/di.uniroma1.it/esorics2026/program/accepted-papers?authuser=0) publication under [publications](/#publications). 
+{{< /ghrepo >}}
 
-[**Bachelor Thesis: Formalizing the KZG Polynomial Commitment Scheme in Isabelle**](MiscProjects/F_KZG/). Bachelor Thesis. TU Munich.\
-[github](https://github.com/tobias-rothmann/KZG-Polynomial-Commitment-Scheme)
+<!--
+{{</* ghrepo "tobias-rothmann/Challenge_Response_Kiosk" */>}}
+Extending Sui's Kiosk for a Challenge-Response Protocol.
+{{</* /ghrepo */>}}
+-->
 
-[**Challenge Reponse Kiosk extension in Sui Move**](MiscProjects/CR_Kiosk/).\
-[github](https://github.com/tobias-rothmann/Challenge_Response_Kiosk)
-
-## Hackathons
-
-[**SuiSeal**](Hackathons/SuiSeal/). BSA x Sui Hackathon at EPFL, Lausanne. **Overall Winner** (1st Place)\
-[github](https://github.com/TUM-Blockchain-Club/SuiSeal)
-
-[**PrivatePOAP**](Hackathons/PrivatePOAP/). ETHBerlin 3, Berlin. Privacy/Manta Network Track Winner (3rd Place)\
-[github](https://github.com/TUM-Blockchain-Club/SuiSeal)
-
-[**PriMACI**](Hackathons/PriMACI/). ETHBerlin 4, Berlin. \
-[github](https://github.com/TUM-Blockchain-Club/SuiSeal)
-
-## Details

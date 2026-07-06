@@ -1,0 +1,27 @@
+.repo-card {
+    margin-bottom: calc(var(--content-gap) * 2);
+}
+
+/* the card is an image link: no text underline, accent border on hover */
+.post-content .repo-card-link {
+    display: block;
+    max-width: 640px;
+    box-shadow: none;
+}
+
+.repo-card-link img {
+    display: block;
+    width: 100%;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    transition: border-color 0.15s ease;
+}
+
+.repo-card-link:hover img {
+    border-color: var(--purple);
+}
+
+.repo-blurb {
+    max-width: 640px;
+    margin-top: 8px;
+}

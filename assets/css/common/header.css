@@ -8,18 +8,49 @@
     background: var(--code-bg);
 }
 
+.dark .nav {
+    background: transparent;
+}
+
 .nav a {
     display: block;
 }
 
-.logo,
 #menu {
     display: none;
     margin: auto var(--gap);
 }
 
+/* show only the theme toggle in the header; site title stays hidden */
 .logo {
     flex-wrap: inherit;
+    margin: auto var(--gap);
+    margin-inline-start: auto;
+}
+
+.logo > a {
+    display: none;
+}
+
+.logo-switches {
+    display: inline-flex;
+    margin: auto 4px;
+    flex-wrap: inherit;
+}
+
+button#theme-toggle {
+    font-size: 26px;
+    margin: auto 4px;
+    cursor: pointer;
+}
+
+body.dark #moon {
+    vertical-align: middle;
+    display: none;
+}
+
+body:not(.dark) #sun {
+    display: none;
 }
 
 .logo a {

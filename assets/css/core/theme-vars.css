@@ -32,7 +32,27 @@
     --margin-left: 26px;
 }
 
+.dark {
+    --content: rgb(205, 203, 201); /*text*/
+    --primary: rgb(222, 220, 218);
+    --secondary: rgb(150, 148, 146); /*metadata*/
+    --tertiary: rgb(98, 96, 94); /*lines & items*/
+    --border: rgb(56, 54, 52); /*borders*/
+    --code-bg: rgb(42, 40, 39); /*areas*/
+    --code-block-bg: rgb(42, 40, 39);
+    --entry: rgb(34, 33, 32); /*background*/
+    --theme: rgb(27, 26, 25);
+    --purple: #e5764a; /*links*/
+    --graypurple: #3a2f28; /*hovered buttons*/
+    --gray: rgb(225, 223, 221); /*labels*/
+    --archive: rgb(90, 88, 86); /*archive lines*/
+}
+
 .list {
     background: var(--code-bg);
+}
+
+.dark.list {
+    background: var(--theme);
 }
 

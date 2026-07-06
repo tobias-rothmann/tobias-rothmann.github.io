@@ -11,3 +11,37 @@ html {
     font-size: 2rem;
     margin-bottom: var(--content-gap);
 }
+
+/* short accent rule under section headings */
+.home-section h1::after {
+    content: "";
+    display: block;
+    width: 48px;
+    height: 3px;
+    margin-top: 6px;
+    border-radius: 2px;
+    background: var(--purple);
+}
+
+/* match the profile's text size and space entries apart */
+.home-section .post-content {
+    font-size: var(--home-size);
+}
+
+.home-section .post-content p {
+    margin-bottom: calc(var(--content-gap) * 1.6);
+}
+
+/* venues: every bold run after the entry's leading bold title */
+.home-section .post-content p > strong:not(:first-child) {
+    color: var(--purple);
+}
+
+/* links in entries pick up the accent color */
+.home-section .post-content a {
+    color: var(--purple);
+}
+
+.home-section .post-content a:hover {
+    background: var(--graypurple);
+}

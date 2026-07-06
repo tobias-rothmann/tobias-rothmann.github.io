@@ -29,6 +29,10 @@ params:
         url: "#publications"
       - name: Talks
         url: "#talks"
+      - name: Projects
+        url: "#projects"
+      - name: Hackathons
+        url: "hackathons/"
 
   socialIcons: # optional
     - name: Github

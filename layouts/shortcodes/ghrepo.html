@@ -1,0 +1,9 @@
+{{- $repo := .Get 0 -}}
+<div class="repo-card">
+    <a class="repo-card-link" href="https://github.com/{{ $repo }}" target="_blank" rel="noopener">
+        <img src="https://opengraph.githubassets.com/1/{{ $repo }}" alt="{{ $repo }} on GitHub" loading="lazy">
+    </a>
+    {{- with .Inner }}
+    <div class="repo-blurb">{{ . | markdownify }}</div>
+    {{- end }}
+</div>
