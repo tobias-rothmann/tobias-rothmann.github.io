@@ -29,6 +29,8 @@ params:
         url: "#publications"
       - name: Talks
         url: "#talks"
+      - name: Events
+        url: "events/"
       - name: Projects
         url: "#projects"
       - name: Hackathons
