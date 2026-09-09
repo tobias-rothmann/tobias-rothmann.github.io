@@ -15,10 +15,10 @@ params:
     I am a master's student in computer science at TUM, interested in <b>formal methods</b>, <b>cryptography</b>, and especially <b><span style='color: var(--purple)'>their intersection</span></b>.
 
     <br><br>
-    Currently, I am interning at the <a href='https://ethereum.org/foundation/'><b>Ethereum Foundation</b></a>, where I work with the team on (almost) <b>end-to-end formal verification</b> of post-quantum lattice-based polynomial commitments <i>(<b>from Rust to security proofs</b>)</i>.
+    I just finished my internship at the <a href='https://ethereum.org/foundation/'><b>Ethereum Foundation</b></a>, where I worked with the team on (almost) <b>end-to-end formal verification</b> of post-quantum lattice-based polynomial commitments <i>(<b>from Rust to security proofs</b>)</i>.
 
     <br><br>
-    During my undergraduate studies, I was fortunate to be supervised by <a href='https://www21.in.tum.de/~nipkow/'><b>Prof. Tobias Nipkow</b></a> <i>(co-author of the Isabelle proof assistant)</i>. I worked on <a href='https://github.com/Verified-zkEVM/ArkLib'><b>ArkLib in Lean</b></a> at <b>EPFL</b> in the lab of <b>Alessandro Chiesa</b> and I have also worked on the cryptography team at <a href='https://www.arcium.com'><b>Arcium</b></a>.
+    During my undergraduate studies, I was fortunate to be supervised by <a href='https://www21.in.tum.de/~nipkow/'><b>Prof. Tobias Nipkow</b></a> <i>(co-author of the Isabelle proof assistant)</i>. I worked on <a href='https://github.com/Verified-zkEVM/ArkLib'><b>ArkLib in Lean</b></a> at <b>EPFL</b> in <a href='https://compsec.epfl.ch/'>the lab of <b>Alessandro Chiesa</b></a> (with <a href='https://cknabs.github.io/'><b>Christian Knabenhans</b></a>) and I have also worked on the cryptography team at <a href='https://www.arcium.com'><b>Arcium</b></a>.
     "
     imageUrl: "image.jpeg" # optional
     imageTitle: "<title of image as alt>" # optional
@@ -41,6 +41,8 @@ params:
       url: https://github.com/tobias-rothmann
     - name: LinkedIn
       url: https://www.linkedin.com/in/tobias-rothmann/
+    - name: Mastodon
+      url: https://mastodon.social/@tobiasrt
     - name: Bluesky
       url: https://bsky.app/profile/tobiasrth.bsky.social
     - name: Email
