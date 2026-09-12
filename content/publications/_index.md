@@ -4,7 +4,7 @@ title: "Publications"
 
 **"On the Formal Verification of Polynomial Commitments: two KZG constructions and the Algebraic Group Model".**\
 Tobias Rothmann.\
-**ESORICS 2026**. Available at: [IACR eprints](https://eprint.iacr.org/2026/1490) | [AFP entry](https://isa-afp.org/entries/Polynomial_Commitment_Schemes.html)
+**ESORICS 2026**. Available at: [IACR eprints](https://eprint.iacr.org/2026/1490) | [AFP entry](https://isa-afp.org/entries/Polynomial_Commitment_Schemes.html) | [slides](/papers/ESORICS26.pdf)
 
 **"Formal Verification of the Kate-Zaverucha-Goldberg
 Polynomial Commitment Scheme".**\
