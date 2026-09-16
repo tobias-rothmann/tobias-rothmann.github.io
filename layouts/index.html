@@ -3,10 +3,10 @@
 {{- if site.Params.profileMode.enabled }}
 {{- partial "index_profile.html" . }}
 
-{{- range slice "publications" "talks" "projects" }}
+{{- range slice "publications" "talks" "projects" "events" }}
 {{- with site.GetPage . }}
 <section id="{{ .Title | urlize }}" class="home-section">
-    <h1>{{ .Title }}</h1>
+    <h1>{{ if eq .Section "events" }}We might have met at..{{ else }}{{ .Title }}{{ end }}</h1>
     <div class="post-content">
         {{ .Content }}
     </div>
