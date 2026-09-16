@@ -1,9 +1,11 @@
 baseURL: https://tobias-rothmann.github.io/
 languageCode: en-us
 title: Tobias Rothmann
+enableRobotsTXT: true
 
 theme: PaperMod
 params:
+  description: "Personal website of Tobias Rothmann, a computer science master's student at TUM working on formal methods, cryptography, and formal verification."
   comments: false
   math: true
   hideFooter: true
