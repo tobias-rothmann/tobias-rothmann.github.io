@@ -6,6 +6,11 @@ enableRobotsTXT: true
 theme: PaperMod
 params:
   description: "Personal website of Tobias Rothmann, a computer science master's student at TUM working on formal methods, cryptography, and formal verification."
+  assets:
+    favicon: "github-avatar.png"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
   comments: false
   math: true
   hideFooter: true
