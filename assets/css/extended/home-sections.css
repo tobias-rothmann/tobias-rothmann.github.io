@@ -33,6 +33,29 @@ html {
     vertical-align: -0.07em;
 }
 
+/* Compact company marks follow the icon-plus-name pattern used in Christian's bio. */
+.profile .company-logo {
+    display: inline-block;
+    width: auto;
+    height: 0.95em;
+    max-width: none;
+    margin: 0 0.24em 0 0;
+    border: 0;
+    border-radius: 0;
+    object-fit: contain;
+    transform: none;
+    vertical-align: -0.13em;
+}
+
+.profile .company-logo--arcium {
+    height: 0.73em;
+    vertical-align: -0.06em;
+}
+
+.dark .profile .company-logo--ethereum {
+    filter: invert(1);
+}
+
 .home-section {
     padding: var(--gap) var(--gap) calc(var(--gap) * 2);
     scroll-margin-top: var(--header-height);
