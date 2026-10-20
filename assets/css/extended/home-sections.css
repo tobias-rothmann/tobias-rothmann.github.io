@@ -56,6 +56,35 @@ html {
     filter: invert(1);
 }
 
+/* Proof-assistant marks use the same compact inline treatments. */
+.profile .proof-logo {
+    display: inline-block;
+    width: auto;
+    height: 0.95em;
+    max-width: none;
+    margin: 0 0.24em 0 0;
+    border: 0;
+    border-radius: 0;
+    object-fit: contain;
+    transform: none;
+    vertical-align: -0.13em;
+}
+
+.profile .proof-logo--isabelle {
+    height: 0.86em;
+    vertical-align: -0.11em;
+}
+
+.profile .proof-logo--lean {
+    /* Match EPFL's visible height and baseline; the PNG has transparent padding. */
+    height: 0.84em;
+    vertical-align: -0.11em;
+}
+
+.dark .profile .proof-logo--lean {
+    filter: invert(1);
+}
+
 .home-section {
     padding: var(--gap) var(--gap) calc(var(--gap) * 2);
     scroll-margin-top: var(--header-height);
