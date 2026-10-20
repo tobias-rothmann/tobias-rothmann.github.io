@@ -52,7 +52,8 @@ html {
     vertical-align: -0.06em;
 }
 
-.dark .profile .company-logo--ethereum {
+.dark .profile .company-logo--ethereum,
+.dark .profile .company-logo--rust {
     filter: invert(1);
 }
 
@@ -68,11 +69,6 @@ html {
     object-fit: contain;
     transform: none;
     vertical-align: -0.13em;
-}
-
-.profile .proof-logo--isabelle {
-    height: 0.86em;
-    vertical-align: -0.11em;
 }
 
 .profile .proof-logo--lean {
