@@ -2,6 +2,37 @@ html {
     scroll-behavior: smooth;
 }
 
+/* Inline affiliation marks in the profile introduction. */
+.profile .university-link {
+    display: inline;
+    line-height: inherit;
+    vertical-align: baseline;
+}
+
+.profile .university-logo {
+    display: inline-block;
+    width: auto;
+    height: 1em;
+    max-width: none;
+    margin: 0 0.2em 0 0;
+    border: 0;
+    border-radius: 0;
+    object-fit: contain;
+    transform: none;
+    vertical-align: -0.12em;
+}
+
+/* Match the compact wordmark treatment used on Christian Knabenhans's site. */
+.profile .university-logo--epfl {
+    height: 0.72em;
+    vertical-align: -0.04em;
+}
+
+.profile .university-logo--tum {
+    height: 0.82em;
+    vertical-align: -0.07em;
+}
+
 .home-section {
     padding: var(--gap) var(--gap) calc(var(--gap) * 2);
     scroll-margin-top: var(--header-height);
