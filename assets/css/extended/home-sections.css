@@ -52,8 +52,7 @@ html {
     vertical-align: -0.06em;
 }
 
-.dark .profile .company-logo--ethereum,
-.dark .profile .company-logo--rust {
+.dark .profile .company-logo--ethereum {
     filter: invert(1);
 }
 
